@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:859px;
+  width:1330px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -499,4 +499,32 @@
   width:339px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u17454_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u17454 {
+  position:absolute;
+  left:955px;
+  top:447px;
+  width:375px;
+  height:16px;
+}
+#u17455 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  white-space:nowrap;
 }
