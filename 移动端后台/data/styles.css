@@ -59,6 +59,8 @@
 .paragraph {
   text-align:left;
 }
+.line {
+}
 .horizontal_line {
 }
 .text_field {
@@ -90,5 +92,8 @@
 }
 .list_box {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
