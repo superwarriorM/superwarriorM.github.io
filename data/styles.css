@@ -7,6 +7,14 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -53,47 +61,53 @@
 }
 .flow_shape {
 }
-.horizontal_line {
+.image1 {
+  color:#000000;
 }
-.image {
-}
-.placeholder {
-}
-.button {
-}
-.shape {
+._文本框 {
+  color:#000000;
+  text-align:left;
 }
 .label {
   font-size:14px;
   text-align:left;
 }
-.line {
+.icon {
 }
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.box_1 {
-}
-.box_3 {
-}
-.checkbox {
-  text-align:left;
-}
-.table_cell {
-}
-.connector {
+.box_2 {
 }
 .ellipse {
 }
 ._图片 {
   color:#000000;
+}
+.shape {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.icon1 {
+}
+.horizontal_line {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table_cell {
+}
+.html_button {
+  color:#000000;
+}
+.vertical_line {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.line {
 }
