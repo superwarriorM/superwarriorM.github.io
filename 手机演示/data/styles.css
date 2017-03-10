@@ -51,6 +51,14 @@
 .paragraph {
   text-align:left;
 }
+.flow_shape {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .box_1 {
 }
 .image {
@@ -63,4 +71,8 @@
 }
 .image1 {
   color:#000000;
+}
+.shape {
+}
+.ellipse {
 }
