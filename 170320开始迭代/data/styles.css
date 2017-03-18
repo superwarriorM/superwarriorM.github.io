@@ -9,6 +9,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .button {
 }
 .heading_1 {
@@ -59,6 +61,8 @@
 .paragraph {
   text-align:left;
 }
+.flow_shape {
+}
 .image1 {
   color:#000000;
 }
@@ -81,4 +85,39 @@
 .ellipse {
 }
 .horizontal_line {
+}
+._形状 {
+}
+._12细黑色 {
+  font-family:'宋体 常规', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#515151;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.box_2 {
+}
+._表格 {
+}
+._单元格 {
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+.table {
+}
+.checkbox {
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+.box_21 {
 }
